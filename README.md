@@ -1,4 +1,7 @@
-### Hi there 👋
+### Howdy reader!
+
+Not much to see here yet...but soon :3
+I'm on Twitter and Discord @elyzzia if you want to message me for some reason! 
 
 <!--
 **ewyzzia/ewyzzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
